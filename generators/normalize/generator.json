@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "from": "config.coffee",
+      "to":   "config.coffee"
+    },
+    {
+      "from": "helpers.css",
+      "to":   "vendor/styles/common/helpers.css"
+    },
+    {
+      "from": "normalize.css",
+      "to":   "vendor/styles/common/normalize.css"
+    },
+    {
+      "from": "typeset.css",
+      "to":   "vendor/styles/common/typeset.css"
+    }
+  ],
+  "dependencies": []
+}

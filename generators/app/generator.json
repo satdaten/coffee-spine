@@ -1,0 +1,17 @@
+{
+  "files": [
+    {
+      "from":"app.html.hbs",
+      "to":"app/assets/{{name}}.html"
+    },
+    {
+      "from":"app.coffee.hbs",
+      "to":"app/{{name}}.coffee"
+    },
+    {
+      "from":"app.less.hbs",
+      "to":"app/{{name}}.less"
+    }
+  ],
+  "dependencies": []
+}

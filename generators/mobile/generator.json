@@ -1,0 +1,9 @@
+{
+  "files": [
+    {
+      "from": "zepto.js",
+      "to":   "vendor/scripts/common/jquery.js"
+    }
+  ],
+  "dependencies": []
+}

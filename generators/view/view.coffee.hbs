@@ -1,0 +1,12 @@
+template = require 'templates/{{name}}'
+
+module.exports = class {{#camelize}}{{name}}{{/camelize}}View extends Spine.Controller
+  className: '{{name}}-view'
+  _template: template
+  
+  constructor: ->
+    super
+    do @_render
+  
+  _render: =>
+    @html @_template()

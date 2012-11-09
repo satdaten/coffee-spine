@@ -1,0 +1,13 @@
+{
+  "files": [
+    {
+      "from": "controller.coffee.hbs",
+      "to": "app/controllers/{{name}}.coffee"
+    },
+    {
+      "from": "controller.less.hbs",
+      "to": "app/styles/controllers/{{name}}.less"
+    }
+  ],
+  "dependencies": []
+}

@@ -1,0 +1,13 @@
+{
+  "files": [
+    {
+      "from": "stack.coffee.hbs",
+      "to": "app/stacks/{{name}}.coffee"
+    },
+    {
+      "from": "stack.less.hbs",
+      "to": "app/styles/stacks/{{name}}.less"
+    }
+  ],
+  "dependencies": []
+}

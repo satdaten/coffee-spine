@@ -1,0 +1,15 @@
+{
+  "files": [
+    {
+      "from": "view.coffee.hbs",
+      "to": "app/views/{{name}}.coffee"
+    },
+    {
+      "from": "view.less.hbs",
+      "to": "app/styles/views/{{name}}.less"
+    }
+  ],
+  "dependencies": [
+    {"name": "template", "params": "{{name}}"}
+  ]
+}
