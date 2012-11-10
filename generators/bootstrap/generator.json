@@ -129,6 +129,10 @@
       "to":   "app/styles/bootstrap/layouts.less"
     },
     {
+      "from": "less/media.less",
+      "to":   "app/styles/bootstrap/media.less"
+    },
+    {
       "from": "less/mixins.less",
       "to":   "app/styles/bootstrap/mixins.less"
     },
