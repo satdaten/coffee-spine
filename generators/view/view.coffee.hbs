@@ -4,9 +4,5 @@ module.exports = class {{#camelize}}{{name}}{{/camelize}}View extends Spine.Cont
   className: '{{name}}-view'
   _template: template
   
-  constructor: ->
-    super
-    do @_render
-  
   _render: =>
     @html @_template()
