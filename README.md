@@ -18,7 +18,7 @@
   * [Modernizr](http://modernizr.com/) (included in test)
   * [Normalize](http://necolas.github.com/normalize.css/)
   * [Typeset.css](http://joshuarudd.github.com/typeset.css/)
-  * [Underscore](http://underscorejs.org/)
+  * [Lo-Dash](http://lodash.com/)
 * Other Brunch Plugins:
   * [Appcache](http://github.com/brunch/appcache-brunch)
   * [Auto Reload](http://github.com/brunch/auto-reload-brunch) (included in test)
