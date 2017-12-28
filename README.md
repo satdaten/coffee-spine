@@ -8,7 +8,7 @@
 * Templating: [Eco](http://github.com/sstephenson/eco)
 * Styling: [LESS](http://lesscss.org/)
 * Testing:
-  * [Mocha](http://visionmedia.github.com/mocha/)
+  * [Mocha](http://mochajs.org/)
   * [Chai](http://chaijs.com/)
   * [Sinon](http://sinonjs.org/) (using [Sinon-Chai](http://github.com/domenic/sinon-chai))
 * Libraries and Utilities:
